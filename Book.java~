@@ -1,0 +1,9 @@
+Class Book{
+    private int page;
+    private int year;
+    private double price;
+    private string title;
+    private string author;
+
+    public int 
+}
